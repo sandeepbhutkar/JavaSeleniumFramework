@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="testCases.TC02VerifyInValidLogin">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyInValidLogin"/>
+        </methods>
+      </class> <!-- testCases.TC02VerifyInValidLogin -->
+      <class name="testCases.TC01VerifyValidLogin">
+        <methods>
+          <include name="verifyValidLogin"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC01VerifyValidLogin -->
+      <class name="testCases.TC06ScreenshotForFailedTestCases">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyURL"/>
+          <include name="verifyTitle"/>
+          <include name="verifyValidLogin"/>
+          <include name="verifyInValidLogin"/>
+        </methods>
+      </class> <!-- testCases.TC06ScreenshotForFailedTestCases -->
+      <class name="testCases.TC05RunAll">
+        <methods>
+          <include name="verifyURL_Fail_for_Screenshot"/>
+          <include name="verifyValidLogin"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyURL"/>
+          <include name="verifyInValidLogin"/>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- testCases.TC05RunAll -->
+      <class name="testCases.TC04VerifyURL">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyURL"/>
+        </methods>
+      </class> <!-- testCases.TC04VerifyURL -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

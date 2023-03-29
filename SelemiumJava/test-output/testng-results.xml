@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-18T20:17:43 IST" name="Default suite" finished-at="2023-03-18T20:19:58 IST" duration-ms="134764">
+    <groups>
+    </groups>
+    <test started-at="2023-03-18T20:17:43 IST" name="Default test" finished-at="2023-03-18T20:19:58 IST" duration-ms="134764">
+      <class name="practice1.Practice">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:17:43 IST" name="setup" finished-at="2023-03-18T20:17:53 IST" duration-ms="9891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="actions()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:17:53 IST" name="actions" finished-at="2023-03-18T20:18:06 IST" duration-ms="13531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:06 IST" name="tearDown" finished-at="2023-03-18T20:18:06 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:06 IST" name="setup" finished-at="2023-03-18T20:18:15 IST" duration-ms="8245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="alert()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:15 IST" name="alert" finished-at="2023-03-18T20:18:19 IST" duration-ms="4063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:19 IST" name="tearDown" finished-at="2023-03-18T20:18:19 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:19 IST" name="setup" finished-at="2023-03-18T20:18:28 IST" duration-ms="8805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="date()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:28 IST" name="date" finished-at="2023-03-18T20:18:34 IST" duration-ms="5927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:34 IST" name="tearDown" finished-at="2023-03-18T20:18:34 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:34 IST" name="setup" finished-at="2023-03-18T20:18:43 IST" duration-ms="9588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dropDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:43 IST" name="dropDown" finished-at="2023-03-18T20:18:43 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:43 IST" name="tearDown" finished-at="2023-03-18T20:18:44 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:44 IST" name="setup" finished-at="2023-03-18T20:18:55 IST" duration-ms="10843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="explicitWait()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:55 IST" name="explicitWait" finished-at="2023-03-18T20:18:55 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explicitWait -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:55 IST" name="tearDown" finished-at="2023-03-18T20:18:55 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:18:55 IST" name="setup" finished-at="2023-03-18T20:19:02 IST" duration-ms="7486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getText()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:02 IST" name="getText" finished-at="2023-03-18T20:19:02 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:02 IST" name="tearDown" finished-at="2023-03-18T20:19:02 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:02 IST" name="setup" finished-at="2023-03-18T20:19:11 IST" duration-ms="8367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="keyBoard()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:11 IST" name="keyBoard" finished-at="2023-03-18T20:19:19 IST" duration-ms="8200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyBoard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:19 IST" name="tearDown" finished-at="2023-03-18T20:19:19 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:19 IST" name="setup" finished-at="2023-03-18T20:19:28 IST" duration-ms="9269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="links()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:28 IST" name="links" finished-at="2023-03-18T20:19:29 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:29 IST" name="tearDown" finished-at="2023-03-18T20:19:29 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:29 IST" name="setup" finished-at="2023-03-18T20:19:37 IST" duration-ms="8576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="table()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:37 IST" name="table" finished-at="2023-03-18T20:19:38 IST" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- table -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:38 IST" name="tearDown" finished-at="2023-03-18T20:19:38 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:38 IST" name="setup" finished-at="2023-03-18T20:19:48 IST" duration-ms="9831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="windowsHandles()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:48 IST" name="windowsHandles" finished-at="2023-03-18T20:19:57 IST" duration-ms="9603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowsHandles -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice1.Practice@7d0b7e3c]" started-at="2023-03-18T20:19:57 IST" name="tearDown" finished-at="2023-03-18T20:19:58 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- practice1.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

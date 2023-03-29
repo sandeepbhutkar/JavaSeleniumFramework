@@ -1,0 +1,21 @@
+package Super;
+
+public class S02Child extends S01Parent{
+
+	String str = "Krish";
+	int i = 4;
+
+	public static void main(String[] args) {
+		S01Parent p = new S01Parent();
+		p.parent();
+
+	}
+	
+	public void parent() {
+		System.out.println(str);
+		System.out.println(i);
+	}
+	
+
+
+}

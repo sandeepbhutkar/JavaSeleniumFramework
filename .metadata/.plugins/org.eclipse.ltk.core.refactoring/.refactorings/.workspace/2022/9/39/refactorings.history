@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;PolymorphismOrMethodOverloading&apos; to &apos;P01CompileTimePolymorphismOrMethodOverloading&apos;&#x0D;&#x0A;- Original element: &apos;PolymorphismOrMethodOverloading&apos;&#x0D;&#x0A;- Renamed element: &apos;PolymorphismOrMethodOverloading&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;PolymorphismOrMethodOverloading&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=PolymorphismOrMethodOverloading" name="P01CompileTimePolymorphismOrMethodOverloading" references="true" stamp="1663573730186" version="1.0"/>
+</session>

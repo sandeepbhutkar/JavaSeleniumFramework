@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;javaT.T20Collections&apos; to &apos;T20CollectionsArrayList&apos;&#x0D;&#x0A;- Original project: &apos;JavaT&apos;&#x0D;&#x0A;- Original element: &apos;javaT.T20Collections&apos;&#x0D;&#x0A;- Renamed element: &apos;javaT.T20CollectionsArrayList&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;T20Collections&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;javaT{T20Collections.java[T20Collections" matchStrategy="1" name="T20CollectionsArrayList" qualified="false" references="true" similarDeclarations="false" stamp="1676134737639" textual="false" version="1.0"/>
+</session>
